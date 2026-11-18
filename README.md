@@ -4,7 +4,7 @@ This page lists the XML transcriptions of the commentaries and how far along eac
 Files whose names start with a number (e.g. `3_`) are still in progress. The others were finished in summer 2026.
 Files add in novembre are indicated in the middle.
 
-|  In progress (9) |  Recently finished (1) |  Finished, summer 2026 (15) |
+|  In progress (9) |  Recently finished (1) |  Finished, summer 2026 (14) |
 |:---|:---|:---|
 | **Bucer**, Romans 13 (nb) | - | - |
 | **Bugenhagen**, Romans 1–16 | - | - |
@@ -28,7 +28,6 @@ Files add in novembre are indicated in the middle.
 | - | - | **Erasmus**, 2 Corinthians 1–13 |
 | - | - | **Hemmingsen**, Romans 1–16 |
 | - | - | **Hyperius**, 1 Timothy 1–6 |
-| - | - | **Hyperius**, 1 Timothy 1–6 (nb) |
 | - | - | **Lefèvre**, 1 Timothy 1–6 |
 | - | - | **Pellican**, 1 Timothy 1–6 |
 
