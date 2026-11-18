@@ -136741,7 +136741,7 @@
             <div type="introduction-title">
                <ab corresp="#fbsb00035303_00002_eSc_textblock_b4980107"
                    type="MainZone-Head">
-                  <title type="default-title">Introduction</title>
+                  <title type="default-title">
                      <hi>
                         <lb type="HeadingLine"
                             corresp="#fbsb00035303_00002_eSc_line_1676ef87_ligne_2"/>
@@ -136778,6 +136778,7 @@
                            <reg type="normalized">tem Christi precatur. </reg>
                         </choice>
                      </hi>
+                  </title>
                </ab>
             </div>
             <div type="introduction-text">
@@ -142490,7 +142491,7 @@
                      <lb type="DefaultLine" corresp="#fbsb00035303_00033_line_1_ligne_1"/>
                      <choice>
                         <orig>CAPVT I.</orig>
-                        <reg type="normalized">[CAPVT I]</reg>
+                        <reg type="normalized">CAPVT I</reg>
                      </choice>
                   </hi>
                </title>
@@ -153201,7 +153202,7 @@
                   <lb type="DefaultLine" corresp="#fbsb00035303_00091_line_2_ligne_2"/>
                   <choice>
                      <orig>CAPVT SECVNDVM.</orig>
-                     <reg type="normalized">CAPVT SECVNDVM</reg>
+                     <reg type="normalized">CAPVT II</reg>
                   </choice>
                </title>
             </ab>
@@ -153233,12 +153234,12 @@
                             source="#fbsb00035303_00091_block_9"/>
                         <choice>
                            <orig/>
-                           <reg type="normalized">V</reg>
+                           <reg type="normalized"/>
                         </choice>
                         <lb type="DefaultLine" corresp="#fbsb00035303_00091_line_6_ligne_2"/>
                         <choice>
                            <orig>Tagnoſcerent Epheſij, quid ex uocatione ſua ſibi</orig>
-                           <reg type="normalized">T agnoscerent Ephesii, quid ex uocatione sua sibi</reg>
+                           <reg type="normalized">Tagnoscerent Ephesii, quid ex uocatione sua sibi</reg>
                         </choice>
                         <lb type="DefaultLine" corresp="#fbsb00035303_00091_line_7_ligne_3"/>
                         <choice>
@@ -153352,15 +153353,6 @@
                            <reg type="normalized">nunquam absque iniuria proximi, et cum modo decenti. </reg>
                         </choice>
                      </ab>
-                  </div>
-               </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_2_full">
-                  <div type="verse" xml:id="Buc_Eph_C_II_sec_2">
-                     <ab corresp="#Buc_Eph_C_II_sec_2" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_II_sec_2">[Cap. II, § 2]</title>
-                     </ab>
-                  </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_2">
                      <note corresp="#fbsb00035303_00091_block_6"
                            type="MarginTextZone-Notes"
                            place="margin">
@@ -155076,10 +155068,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_3_full">
-                  <div type="verse" xml:id="Buc_Eph_C_II_sec_3">
-                     <ab corresp="#Buc_Eph_C_II_sec_3" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_II_sec_3">[Cap. II, § 3]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_2_full">
+                  <div type="verse" xml:id="Buc_Eph_C_II_sec_2">
+                     <ab corresp="#Buc_Eph_C_II_sec_2" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_II_sec_2">[Cap. II, § 2]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00100_line_26_ligne_2"/>
                            <choice>
@@ -155089,7 +155081,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_3">
+                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_2">
                      <ab corresp="#fbsb00035303_00100_block_5" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00100_line_27_ligne_2"/>
                         <choice>
@@ -155717,10 +155709,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_4_full">
-                  <div type="verse" xml:id="Buc_Eph_C_II_sec_4">
-                     <ab corresp="#Buc_Eph_C_II_sec_4" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_II_sec_4">[Cap. II, § 4]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_3_full">
+                  <div type="verse" xml:id="Buc_Eph_C_II_sec_3">
+                     <ab corresp="#Buc_Eph_C_II_sec_3" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_II_sec_3">[Cap. II, § 3]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00104_line_16_ligne_2"/>
                            <choice>
@@ -155737,7 +155729,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_4">
+                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_3">
                      <ab corresp="#fbsb00035303_00104_block_5" type="MainZone-P">
                         <lb type="HeadingLine"
                             corresp="#fbsb00035303_00104_eSc_line_0b448a61_ligne_2"/>
@@ -156612,10 +156604,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_5_full">
-                  <div type="verse" xml:id="Buc_Eph_C_II_sec_5">
-                     <ab corresp="#Buc_Eph_C_II_sec_5" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_II_sec_5">[Cap. II, § 5]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_4_full">
+                  <div type="verse" xml:id="Buc_Eph_C_II_sec_4">
+                     <ab corresp="#Buc_Eph_C_II_sec_4" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_II_sec_4">[Cap. II, § 4]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00109_line_5_ligne_2"/>
                            <choice>
@@ -156632,7 +156624,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_5">
+                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_4">
                      <ab corresp="#fbsb00035303_00109_block_6" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00109_line_8_ligne_2"/>
                         <choice>
@@ -158115,10 +158107,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_6_full">
-                  <div type="verse" xml:id="Buc_Eph_C_II_sec_6">
-                     <ab corresp="#Buc_Eph_C_II_sec_6" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_II_sec_6">[Cap. II, § 6]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_5_full">
+                  <div type="verse" xml:id="Buc_Eph_C_II_sec_5">
+                     <ab corresp="#Buc_Eph_C_II_sec_5" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_II_sec_5">[Cap. II, § 5]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00116_line_24_ligne_2"/>
                            <choice>
@@ -158135,7 +158127,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_6">
+                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_5">
                      <ab corresp="#fbsb00035303_00116_block_4" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00116_line_27_ligne_2"/>
                         <choice>
@@ -160598,10 +160590,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_7_full">
-                  <div type="verse" xml:id="Buc_Eph_C_II_sec_7">
-                     <ab corresp="#Buc_Eph_C_II_sec_7" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_II_sec_7">[Cap. II, § 7]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_6_full">
+                  <div type="verse" xml:id="Buc_Eph_C_II_sec_6">
+                     <ab corresp="#Buc_Eph_C_II_sec_6" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_II_sec_6">[Cap. II, § 6]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00129_line_27_ligne_2"/>
                            <choice>
@@ -160618,7 +160610,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_7">
+                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_6">
                      <note corresp="#fbsb00035303_00129_block_8"
                            type="MarginTextZone-Notes"
                            place="margin">
@@ -161008,10 +161000,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_8_full">
-                  <div type="verse" xml:id="Buc_Eph_C_II_sec_8">
-                     <ab corresp="#Buc_Eph_C_II_sec_8" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_II_sec_8">[Cap. II, § 8]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_II_sec_7_full">
+                  <div type="verse" xml:id="Buc_Eph_C_II_sec_7">
+                     <ab corresp="#Buc_Eph_C_II_sec_7" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_II_sec_7">[Cap. II, § 7]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00131_line_26_ligne_2"/>
                            <choice>
@@ -161028,7 +161020,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_8">
+                  <div type="commentary" corresp="#Buc_Eph_C_II_sec_7">
                      <pb corresp="fbsb00035303_00132"/>
                      <fw corresp="#fbsb00035303_00132_block_1" type="RunningTitleZone">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00132_line_1_ligne_2"/>
@@ -161813,7 +161805,7 @@
                      <lb type="DefaultLine" corresp="#fbsb00035303_00136_line_2_ligne_2"/>
                      <choice>
                         <orig>APVT TERTIVM.</orig>
-                        <reg type="normalized">CAPVT TERTIVM</reg>
+                        <reg type="normalized">CAPVT III</reg>
                      </choice>
                   </hi>
                </title>
@@ -161987,7 +161979,7 @@
                       corresp="#fbsb00035303_00137_eSc_line_4658b07e_ligne_2"/>
                   <choice>
                      <orig>09</orig>
-                     <reg type="normalized">09</reg>
+                     <reg type="normalized">69</reg>
                   </choice>
                </fw>
                <fw corresp="#fbsb00035303_00137_block_7" type="QuireMarksZone">
@@ -163145,8 +163137,8 @@
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00143_line_6_ligne_3"/>
                            <choice>
-                              <orig>minimo &amp; c.</orig>
-                              <reg type="normalized">minimo et c.</reg>
+                              <orig>minimo &amp;c.</orig>
+                              <reg type="normalized">minimo etc.</reg>
                            </choice>
                         </hi>
                      </ab>
@@ -166637,23 +166629,23 @@
                </div>
             </div>
          </div>
-         <div type="chapter-title" xml:id="Buc_Eph_C_IIII">
+         <div type="chapter-title" xml:id="Buc_Eph_C_IV">
             <ab corresp="#fbsb00035303_00162_block_4" type="MainZone-Head">
-               <title ref="#Buc_Eph_C_IIII">
+               <title ref="#Buc_Eph_C_IV">
                   <hi>
                      <lb type="DefaultLine" corresp="#fbsb00035303_00162_line_21_ligne_2"/>
                      <choice>
                         <orig>CAPVT QVARTVM</orig>
-                        <reg type="normalized">CAPVT QVARTVM</reg>
+                        <reg type="normalized">CAPVT IV</reg>
                      </choice>
                   </hi>
                </title>
             </ab>
-            <div type="all-chapter-text" corresp="#Buc_Eph_C_IIII">
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_1_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_1">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_1" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_1">[Cap. IIII, § 1]</title>
+            <div type="all-chapter-text" corresp="#Buc_Eph_C_IV">
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_1_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_1">
+                     <ab corresp="#Buc_Eph_C_IV_sec_1" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_1">[Cap. IV, § 1]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00162_line_22_ligne_2"/>
                            <choice>
@@ -166670,7 +166662,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_1">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_1">
                      <ab corresp="#fbsb00035303_00162_block_6" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00162_line_24_ligne_2"/>
                         <choice>
@@ -166832,10 +166824,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_2_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_2">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_2" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_2">[Cap. IIII, § 2]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_2_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_2">
+                     <ab corresp="#Buc_Eph_C_IV_sec_2" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_2">[Cap. IV, § 2]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00163_line_21_ligne_2"/>
                            <choice>
@@ -166845,7 +166837,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_2">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_2">
                      <ab corresp="#fbsb00035303_00163_block_4" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00163_line_22_ligne_2"/>
                         <choice>
@@ -166986,10 +166978,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_3_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_3">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_3" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_3">[Cap. IIII, § 3]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_3_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_3">
+                     <ab corresp="#Buc_Eph_C_IV_sec_3" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_3">[Cap. IV, § 3]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00164_line_15_ligne_2"/>
                            <choice>
@@ -167006,7 +166998,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_3">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_3">
                      <ab corresp="#fbsb00035303_00164_block_5" type="MainZone-P">
                         <lb type="HeadingLine"
                             corresp="#fbsb00035303_00164_eSc_line_8b030a58_ligne_2"/>
@@ -167674,10 +167666,10 @@
                      </fw>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_4_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_4">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_4" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_4">[Cap. IIII, § 4]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_4_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_4">
+                     <ab corresp="#Buc_Eph_C_IV_sec_4" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_4">[Cap. IV, § 4]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00168_line_10_ligne_2"/>
                            <choice>
@@ -167694,7 +167686,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_4">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_4">
                      <ab corresp="#fbsb00035303_00168_block_6" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00168_line_12_ligne_2"/>
                         <choice>
@@ -168559,10 +168551,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_5_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_5">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_5" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_5">[Cap. IIII, § 5]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_5_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_5">
+                     <ab corresp="#Buc_Eph_C_IV_sec_5" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_5">[Cap. IV, § 5]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00172_line_27_ligne_2"/>
                            <choice>
@@ -168579,7 +168571,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_5">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_5">
                      <ab corresp="#fbsb00035303_00172_block_8" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00172_line_29_ligne_2"/>
                         <choice>
@@ -168825,10 +168817,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_6_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_6">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_6" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_6">[Cap. IIII, § 6]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_6_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_6">
+                     <ab corresp="#Buc_Eph_C_IV_sec_6" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_6">[Cap. IV, § 6]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00173_line_23_ligne_2"/>
                            <choice>
@@ -168845,7 +168837,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_6">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_6">
                      <ab corresp="#fbsb00035303_00173_block_4" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00173_line_25_ligne_2"/>
                         <choice>
@@ -169103,10 +169095,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_7_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_7">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_7" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_7">[Cap. IIII, § 7]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_7_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_7">
+                     <ab corresp="#Buc_Eph_C_IV_sec_7" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_7">[Cap. IV, § 7]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00175_line_9_ligne_2"/>
                            <choice>
@@ -169123,7 +169115,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_7">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_7">
                      <ab corresp="#fbsb00035303_00175_block_6" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00175_line_12_ligne_2"/>
                         <choice>
@@ -169303,10 +169295,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_8_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_8">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_8" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_8">[Cap. IIII, § 8]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_8_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_8">
+                     <ab corresp="#Buc_Eph_C_IV_sec_8" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_8">[Cap. IV, § 8]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00176_line_15_ligne_2"/>
                            <choice>
@@ -169323,7 +169315,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_8">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_8">
                      <ab corresp="#fbsb00035303_00176_block_7" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00176_line_17_ligne_2"/>
                         <choice>
@@ -169373,10 +169365,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_9_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_9">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_9" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_9">[Cap. IIII, § 9]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_9_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_9">
+                     <ab corresp="#Buc_Eph_C_IV_sec_9" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_9">[Cap. IV, § 9]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00176_line_26_ligne_2"/>
                            <choice>
@@ -169386,7 +169378,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_9">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_9">
                      <ab corresp="#fbsb00035303_00176_block_9" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00176_line_27_ligne_2"/>
                         <choice>
@@ -169562,10 +169554,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_10_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_10">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_10" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_10">[Cap. IIII, § 10]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_10_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_10">
+                     <ab corresp="#Buc_Eph_C_IV_sec_10" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_10">[Cap. IV, § 10]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00177_line_13_ligne_2"/>
                            <choice>
@@ -169582,7 +169574,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_10">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_10">
                      <ab corresp="#fbsb00035303_00177_block_5" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00177_line_16_ligne_2"/>
                         <choice>
@@ -169713,10 +169705,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_11_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_11">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_11" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_11">[Cap. IIII, § 11]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_11_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_11">
+                     <ab corresp="#Buc_Eph_C_IV_sec_11" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_11">[Cap. IV, § 11]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00178_line_10_ligne_2"/>
                            <choice>
@@ -169733,7 +169725,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_11">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_11">
                      <ab corresp="#fbsb00035303_00178_block_5" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00178_line_12_ligne_2"/>
                         <choice>
@@ -169970,10 +169962,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_12_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_12">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_12" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_12">[Cap. IIII, § 12]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_12_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_12">
+                     <ab corresp="#Buc_Eph_C_IV_sec_12" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_12">[Cap. IV, § 12]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00179_line_14_ligne_2"/>
                            <choice>
@@ -169983,7 +169975,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_12">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_12">
                      <ab corresp="#fbsb00035303_00179_block_6" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00179_line_18_ligne_2"/>
                         <choice>
@@ -170038,10 +170030,10 @@
                      </ab>
                   </div>
                </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IIII_sec_13_full">
-                  <div type="verse" xml:id="Buc_Eph_C_IIII_sec_13">
-                     <ab corresp="#Buc_Eph_C_IIII_sec_13" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_IIII_sec_13">[Cap. IIII, § 13]</title>
+               <div type="verse+commentary-text" xml:id="Buc_Eph_C_IV_sec_13_full">
+                  <div type="verse" xml:id="Buc_Eph_C_IV_sec_13">
+                     <ab corresp="#Buc_Eph_C_IV_sec_13" type="MainZone-Head">
+                        <title ref="#Buc_Eph_C_IV_sec_13">[Cap. IV, § 13]</title>
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00179_line_28_ligne_2"/>
                            <choice>
@@ -170058,7 +170050,7 @@
                         </hi>
                      </ab>
                   </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_IIII_sec_13">
+                  <div type="commentary" corresp="#Buc_Eph_C_IV_sec_13">
                      <note corresp="#fbsb00035303_00179_block_5"
                            type="MarginTextZone-Notes"
                            place="margin">
@@ -171954,8 +171946,8 @@
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00189_line_12_ligne_2"/>
                            <choice>
-                              <orig>Videte igitur quomodo circumſpes</orig>
-                              <reg type="normalized">Videte igitur quomodo circumspes</reg>
+                              <orig>Videte igitur quomodo circumſpes¬</orig>
+                              <reg type="normalized">Videte igitur quomodo circumspes-</reg>
                            </choice>
                         </hi>
                         <hi>
@@ -178107,12 +178099,7 @@
                            <reg type="normalized">gloria in saecula Amen-</reg>
                         </choice>
                      </ab>
-                  </div>
-               </div>
-               <div type="verse+commentary-text" xml:id="Buc_Eph_C_VI_sec_10_full">
-                  <div type="verse" xml:id="Buc_Eph_C_VI_sec_10">
-                     <ab corresp="#Buc_Eph_C_VI_sec_10" type="MainZone-Head">
-                        <title ref="#Buc_Eph_C_VI_sec_10">[Cap. VI, § 10]</title>
+                     <ab corresp="#fbsb00035303_00220_block_3" type="MainZone-P">
                         <hi>
                            <lb type="DefaultLine" corresp="#fbsb00035303_00220_line_12_ligne_2"/>
                            <choice>
@@ -178142,8 +178129,6 @@
                            </choice>
                         </hi>
                      </ab>
-                  </div>
-                  <div type="commentary" corresp="#Buc_Eph_C_VI_sec_10">
                      <ab corresp="#fbsb00035303_00220_block_4" type="MainZone-P">
                         <lb type="DefaultLine" corresp="#fbsb00035303_00220_line_16_ligne_2"/>
                         <choice>
@@ -178220,6 +178205,259 @@
                            <reg type="normalized">gritate.</reg>
                         </choice>
                      </note>
+                     <pb corresp="fbsb00035303_00221"/>
+                     <fw corresp="#fbsb00035303_00221_block_1" type="RunningTitleZone">
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_1_ligne_2"/>
+                        <choice>
+                           <orig>INDE X.</orig>
+                           <reg type="normalized">INDE X.</reg>
+                        </choice>
+                     </fw>
+                     <fw corresp="#fbsb00035303_00221_block_3" type="QuireMarksZone">
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_49_ligne_2"/>
+                        <choice>
+                           <orig>Contra</orig>
+                           <reg type="normalized">Contra</reg>
+                        </choice>
+                     </fw>
+                     <fw corresp="#fbsb00035303_00221_block_4" type="QuireMarksZone"/>
+                     <ab corresp="#fbsb00035303_00221_block_2" type="MainZone-Continued">
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_2_ligne_2"/>
+                        <choice>
+                           <orig>Abrogatiolegis. fol.</orig>
+                           <reg type="normalized">Abrogatiolegis. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_3_ligne_3"/>
+                        <choice>
+                           <orig>63b &amp; σ4.ab.Item es.a.</orig>
+                           <reg type="normalized">63b et σ4.abus Item es.a.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_4_ligne_4"/>
+                        <choice>
+                           <orig>Aetas Chrſti plene adulta. fol.</orig>
+                           <reg type="normalized">Aetas Chrsti plene adulta. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_5_ligne_5"/>
+                        <choice>
+                           <orig>85. 4.</orig>
+                           <reg type="normalized">85. 4.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_6_ligne_6"/>
+                        <choice>
+                           <orig>Amor Dei unde proueniat·fol.</orig>
+                           <reg type="normalized">Amor Dei unde proueniat. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_7_ligne_7"/>
+                        <choice>
+                           <orig>20a</orig>
+                           <reg type="normalized">20a</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_8_ligne_8"/>
+                        <choice>
+                           <orig>Apostolus Christiquis. fol.</orig>
+                           <reg type="normalized">Apostolus Christiquis. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_9_ligne_9"/>
+                        <choice>
+                           <orig>18. 4.&amp; 84. b.</orig>
+                           <reg type="normalized">18. 4.et 84. bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_10_ligne_10"/>
+                        <choice>
+                           <orig>Armatura ſanctorum. fol.</orig>
+                           <reg type="normalized">Armatura sanctorum. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_11_ligne_11"/>
+                        <choice>
+                           <orig>107. b.</orig>
+                           <reg type="normalized">107. bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_12_ligne_12"/>
+                        <choice>
+                           <orig>Artes infructuoſæ a Chriſtianis uitandæ. fol.</orig>
+                           <reg type="normalized">Artes infructuosae a Christianis uitandae. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_13_ligne_13"/>
+                        <choice>
+                           <orig>S9.d.b¬</orig>
+                           <reg type="normalized">Sus.d.b-</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_14_ligne_14"/>
+                        <choice>
+                           <orig>Aſcendit ſuper cælos. fol.</orig>
+                           <reg type="normalized">Ascendit super caelos. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_15_ligne_15"/>
+                        <choice>
+                           <orig>83. b.</orig>
+                           <reg type="normalized">83. bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_16_ligne_16"/>
+                        <choice>
+                           <orig>Baptiſmus noſter et Christi quis &amp; quid uter præ¬</orig>
+                           <reg type="normalized">Baptismus noster et Christi quis et quid uterque prae-</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_17_ligne_17"/>
+                        <choice>
+                           <orig>Bona opera quæ nos facere poſſumus. fol.53.b. (ſtet..</orig>
+                           <reg type="normalized">Bona opera quae nos facere possumus. fol.53.bus (stet..</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_18_ligne_18"/>
+                        <choice>
+                           <orig>Canon interpretandi ſcripturas. fol.</orig>
+                           <reg type="normalized">Canon interpretandi scripturas. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_19_ligne_19"/>
+                        <choice>
+                           <orig>101. d.</orig>
+                           <reg type="normalized">101. d.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_20_ligne_20"/>
+                        <choice>
+                           <orig>Charitas quare præceptum nouum à Chriſto dicatur. fo.</orig>
+                           <reg type="normalized">Charitas quare praeceptum nouum a Christo dicatur. fo.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_21_ligne_21"/>
+                        <choice>
+                           <orig>Charitas quare fide et ſpe maior dicatur. fol·21·a. G8.b.</orig>
+                           <reg type="normalized">Charitas quare fide et spe maior dicatur. fol. 21. a. G8.bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_22_ligne_22"/>
+                        <choice>
+                           <orig>Chirographũ, id est, lex Moſcheh quomodo contrariũ no</orig>
+                           <reg type="normalized">Chirographum, id est, lex Moscheh quomodo contrarium no</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_23_ligne_23"/>
+                        <choice>
+                           <orig>bis. fol.</orig>
+                           <reg type="normalized">bis. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_24_ligne_24"/>
+                        <choice>
+                           <orig>63. d.&amp; 65 a.</orig>
+                           <reg type="normalized">63. d.et 65 a.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_25_ligne_25"/>
+                        <choice>
+                           <orig>Christiant in mundo infelitius agunt. fol.</orig>
+                           <reg type="normalized">Christiant in mundo infelitius agunt. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_26_ligne_26"/>
+                        <choice>
+                           <orig>103. b.</orig>
+                           <reg type="normalized">103. bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_27_ligne_27"/>
+                        <choice>
+                           <orig>Christus ad dexteram Dei ſedet. fol.</orig>
+                           <reg type="normalized">Christus ad dexteram Dei sedet. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_28_ligne_28"/>
+                        <choice>
+                           <orig>83. b.</orig>
+                           <reg type="normalized">83. bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_29_ligne_29"/>
+                        <choice>
+                           <orig>Chriſtus in alijs puer in alijsuir. fol·</orig>
+                           <reg type="normalized">Christus in aliis puer in aliisuir. fol. </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_30_ligne_30"/>
+                        <choice>
+                           <orig>85. b.</orig>
+                           <reg type="normalized">85. bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_31_ligne_31"/>
+                        <choice>
+                           <orig>Chriſtus Euangelizauit pacem. fol.</orig>
+                           <reg type="normalized">Christus Euangelizauit pacem. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_32_ligne_32"/>
+                        <choice>
+                           <orig>65. b.</orig>
+                           <reg type="normalized">65. bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_33_ligne_33"/>
+                        <choice>
+                           <orig>Chriſtus fundamentum. fol.</orig>
+                           <reg type="normalized">Christus fundamentum. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_34_ligne_34"/>
+                        <choice>
+                           <orig>67. d.</orig>
+                           <reg type="normalized">67. d.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_35_ligne_35"/>
+                        <choice>
+                           <orig>Christi incarnatio quid mundo attulerit. fol.</orig>
+                           <reg type="normalized">Christi incarnatio quid mundo attulerit. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_36_ligne_36"/>
+                        <choice>
+                           <orig>59. b.</orig>
+                           <reg type="normalized">59. bus </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_37_ligne_37"/>
+                        <choice>
+                           <orig>Chriſtus non condidit nouas leges-fol.</orig>
+                           <reg type="normalized">Christus non condidit nouas leges-fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_38_ligne_38"/>
+                        <choice>
+                           <orig>ci. 4.</orig>
+                           <reg type="normalized">ci. 4.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_39_ligne_39"/>
+                        <choice>
+                           <orig>Chriſtus omnia etiam Angelos reſtituet</orig>
+                           <reg type="normalized">Christus omnia etiam Angelos restituet</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_40_ligne_40"/>
+                        <choice>
+                           <orig>fl32.b.&amp;3ra¬</orig>
+                           <reg type="normalized">fl32.bus et3ra-</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_41_ligne_41"/>
+                        <choice>
+                           <orig>Circumciſio manu facta-fol.</orig>
+                           <reg type="normalized">Circumcisio manu facta-fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_42_ligne_42"/>
+                        <choice>
+                           <orig>5g. d</orig>
+                           <reg type="normalized">5g. d</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_43_ligne_43"/>
+                        <choice>
+                           <orig>Coædificamur in Christum. fol.</orig>
+                           <reg type="normalized">Coaedificamur in Christum. fol.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_44_ligne_44"/>
+                        <choice>
+                           <orig>67. b,</orig>
+                           <reg type="normalized">67. b,</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_45_ligne_45"/>
+                        <choice>
+                           <orig>Coniugiũ inter Chriſtũ et Eccleſiam. fol</orig>
+                           <reg type="normalized">Coniugium inter Christum et Ecclesiam. fol</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_46_ligne_46"/>
+                        <choice>
+                           <orig>100. b.etio2.a.</orig>
+                           <reg type="normalized">100. bus etio2.a.</reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_47_ligne_47"/>
+                        <choice>
+                           <orig>Conditi ſumus ad bona opera fol·</orig>
+                           <reg type="normalized">Conditi sumus ad bona opera fol. </reg>
+                        </choice>
+                        <lb type="DefaultLine" corresp="#fbsb00035303_00221_line_48_ligne_48"/>
+                        <choice>
+                           <orig>53 b.</orig>
+                           <reg type="normalized">53 bus </reg>
+                        </choice>
+                     </ab>
                   </div>
                </div>
             </div>
